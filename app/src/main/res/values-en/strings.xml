@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tres en Raya</string>
+    <string name="textView8">USERS</string>
+    <string name="textView9">GAMES</string>
+    <string name="textView10">POINTS</string>
+    <string name="textView4">PLAYER 1</string>
+    <string name="textView5">PLAYER 2</string>
+    <string name="textView6">DIFFICULTY</string>
+    <string name="textView7">RESULTS</string>
+    <string name="textView">EXERCISE TIC-TAC-TOE</string>
+    <string name="textView2">GAME MODES</string>
+    <string name="txtJugador">Player name</string>
+    <string name="txtJugador1">Player 1 name</string>
+    <string name="txtJugador2">Player 2 name</string>
+    <string name="unjugador">1 PLAYER</string>
+    <string name="dosjugadores">2 PLAYERS</string>
+    <string name="textView3">CHOOSE DIFFICULTY</string>
+    <string name="rFacil">Easy</string>
+    <string name="rDifícil">Hard</string>
+    <string name="rExtremo">Extreme</string>
+    <string name="partidas">GAMES</string>
+    <string name="ranking">RANKING</string>
+    <string name="mute">MUTE</string>
+</resources>

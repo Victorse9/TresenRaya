@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="USUARIO"
+            android:text="@string/textView8"
             android:textColor="#673AB7"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="PARTIDAS"
+            android:text="@string/textView9"
             android:textColor="#673AB7"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -41,7 +41,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="PUNTOS"
+            android:text="@string/textView10"
             android:textColor="#673AB7"
             android:textSize="16sp"
             android:textStyle="bold" />

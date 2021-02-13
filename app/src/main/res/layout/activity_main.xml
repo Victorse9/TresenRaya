@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:background="#E91E63"
             android:gravity="center"
-            android:text="EJERCICIO TRES EN RAYA"
+            android:text="@string/textView"
             android:textColor="#FFFFFF" />
 
         <TextView
@@ -27,7 +27,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:text="MODOS DE JUEGO"
+            android:text="@string/textView2"
             android:textSize="12sp" />
 
         <LinearLayout
@@ -42,7 +42,7 @@
                 android:layout_margin="3dp"
                 android:background="#E91E63"
                 android:onClick="Jugar"
-                android:text="1 JUGADOR"
+                android:text="@string/unjugador"
                 android:textSize="12sp"
                 app:backgroundTint="#E91E63" />
 
@@ -51,7 +51,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:ems="10"
-                android:hint="Nombre Jugador"
+                android:hint="@string/txtJugador"
                 android:inputType="textPersonName"
                 android:textColorHint="#818181"
                 android:textSize="12sp" />
@@ -63,7 +63,7 @@
                 android:layout_margin="3dp"
                 android:layout_weight="1"
                 android:background="#E91E63"
-                android:text="2 JUGADORES"
+                android:text="@string/dosjugadores"
                 android:textSize="12sp"
                 app:backgroundTint="#E91E63" />
 
@@ -78,7 +78,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:ems="2"
-                    android:hint="Nombre Jugador 1"
+                    android:hint="@string/txtJugador1"
                     android:inputType="textPersonName"
                     android:textColorHint="#818181"
                     android:textSize="12sp" />
@@ -89,7 +89,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:ems="2"
-                    android:hint="Nombre Jugador 2"
+                    android:hint="@string/txtJugador2"
                     android:inputType="textPersonName"
                     android:textColorHint="#818181"
                     android:textSize="12sp" />
@@ -108,7 +108,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:gravity="center"
-                    android:text="SELECCIONA DIFICULTAD"
+                    android:text="@string/textView3"
                     android:textStyle="bold" />
             </LinearLayout>
 
@@ -128,7 +128,7 @@
                 android:layout_gravity="center"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:text="Fácil"
+                android:text="@string/rFacil"
                 android:textSize="12sp" />
 
             <RadioButton
@@ -138,7 +138,7 @@
                 android:layout_gravity="center"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:text="Difícil"
+                android:text="@string/rDifícil"
                 android:textSize="12sp" />
 
             <RadioButton
@@ -148,7 +148,7 @@
                 android:layout_gravity="center"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:text="Extremo"
+                android:text="@string/rExtremo"
                 android:textSize="12sp" />
 
         </RadioGroup>
@@ -169,7 +169,7 @@
                 android:background="#E91E63"
                 android:onClick="irPartidas"
                 android:padding="5dp"
-                android:text="Partidas"
+                android:text="@string/partidas"
                 android:textSize="12sp"
                 app:backgroundTint="#E91E63" />
 
@@ -183,12 +183,12 @@
                 android:background="#E91E63"
                 android:onClick="irRanking"
                 android:padding="5dp"
-                android:text="Ranking"
+                android:text="@string/ranking"
                 android:textSize="12sp"
                 app:backgroundTint="#E91E63" />
 
             <Button
-                android:id="@+id/ranking2"
+                android:id="@+id/mute"
                 android:layout_width="wrap_content"
                 android:layout_height="40dp"
                 android:layout_gravity="center"
@@ -197,7 +197,7 @@
                 android:background="#E91E63"
                 android:onClick="musicaAmbiente"
                 android:padding="5dp"
-                android:text="Mute"
+                android:text="@string/mute"
                 android:textSize="12sp"
                 app:backgroundTint="#E91E63" />
 

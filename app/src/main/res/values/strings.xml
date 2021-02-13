@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Tres en Raya</string>
+    <string name="textView8">USUARIO</string>
+    <string name="textView9">PARTIDAS</string>
+    <string name="textView10">PUNTOS</string>
+    <string name="textView4">JUGADOR 1</string>
+    <string name="textView5">JUGADOR 2</string>
+    <string name="textView6">DIFICULTAD</string>
+    <string name="textView7">RESULTADO</string>
+    <string name="textView">EJERCICIO TRES EN RAYA</string>
+    <string name="textView2">MODOS DE JUEGO</string>
+    <string name="txtJugador">Nombre del jugador</string>
+    <string name="txtJugador1">Nombre del jugador 1</string>
+    <string name="txtJugador2">Nombre del jugador 2</string>
+    <string name="unjugador">1 JUGADOR</string>
+    <string name="dosjugadores">2 JUGADORES</string>
+    <string name="textView3">SELECCIONA DIFICULTAD</string>
+    <string name="rFacil">Fácil</string>
+    <string name="rDifícil">Difícil</string>
+    <string name="rExtremo">Extremo</string>
+    <string name="partidas">PARTIDAS</string>
+    <string name="ranking">RANKING</string>
+    <string name="mute">MUTE</string>
 </resources>

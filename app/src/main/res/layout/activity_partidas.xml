@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="JUGADOR 1"
+            android:text="@string/textView4"
             android:textColor="#673AB7"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -29,7 +29,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="JUGADOR 2"
+            android:text="@string/textView5"
             android:textColor="#673AB7"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -40,7 +40,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="DIFICULTAD"
+            android:text="@string/textView6"
             android:textColor="#673AB7"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -51,7 +51,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:gravity="center"
-            android:text="RESULTADO"
+            android:text="@string/textView7"
             android:textColor="#673AB7"
             android:textSize="16sp"
             android:textStyle="bold" />
